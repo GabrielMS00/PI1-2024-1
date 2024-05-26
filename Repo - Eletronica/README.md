@@ -36,10 +36,11 @@
 
 | Quantidade | Nome | Aplicação |
 | ---------- | ---- | --------- |
-| **6** | **Resistor 560 ohm** | **Sensores** |
+| **4** | **Resistor 560 ohm** | **Sensores** |
+| **2** | **Resistor 100 ohm** | **Sensores** |
 | **4** | **Resistor 1k ohm** | **Sensores** |
 | **1** | **Resistor 3k3 ohm**  | **Comunicação** |
-| **1** | **Resistor 5k  ohm** | **Comunicação** |
+| **1** | **Resistor 5k1  ohm** | **Comunicação** |
 | **2** | **Transistor BC547**  | **Movimento** |
 | **2** | **Diodo 1N4007** | **Movimento** |
 | **1** | **Suporte para 2 Baterias 18650** | **Bateria** |
